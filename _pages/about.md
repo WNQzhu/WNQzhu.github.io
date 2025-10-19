@@ -9,6 +9,10 @@ redirect_from:
 
 I am a Software Engineer at HiThink Research. My research interests include Large Language Models (LLMs) and recommendation systems. I also have some background in computer vision and 3D reconstruction.
 
+News
+======
+- 2025.08: &nbsp;🎉🎉🎉 One paper has been accepted by EMNLP 2025!
+
 
 For more info
 ------
