@@ -12,6 +12,6 @@ I am a Software Engineer at HiThink Research. My research interests include Larg
 
 For more info
 ------
-[Email](zhuwnq@outlook.com)/[Google Scholar](https://scholar.google.com/citations?user=cmmCBWYAAAAJ)/[Github](https://github.com/WNQzhu)
+[Email](mailto:zhuwnq@outlook.com)/[Google Scholar](https://scholar.google.com/citations?user=cmmCBWYAAAAJ)/[Github](https://github.com/WNQzhu)
 
 ![Feel free to reach out and discuss this with me anytime.](/images/weixin_public.png)
