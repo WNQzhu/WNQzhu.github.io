@@ -12,6 +12,10 @@ I am a Software Engineer at HiThink Research. My research interests include Larg
 News
 ======
 - 2025.08: &nbsp;🎉🎉🎉 One paper has been accepted by EMNLP 2025!
+- 2025.05: &nbsp;🎉🎉🎉 One paper has been accepted by ACL 2025(Finding)!
+- 2024.12: &nbsp;🎉🎉🎉 One paper has been accepted by AAAI 2025!
+- 2024.09: &nbsp;🎉🎉🎉 One paper has been accepted by EMNLP 2024!
+
 
 
 For more info
